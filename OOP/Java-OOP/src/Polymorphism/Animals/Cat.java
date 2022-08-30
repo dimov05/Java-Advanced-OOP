@@ -1,3 +1,5 @@
+package Polymorphism.Animals;
+
 public class Cat  extends Animal{
 
     protected Cat(String name, String favouriteFood) {
